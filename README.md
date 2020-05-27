@@ -1,8 +1,8 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-
+# Backend Test
+Use this command to run the file:
+```bash
+python3 manage.py runserver
+```
 ## Models
 
 ```python
